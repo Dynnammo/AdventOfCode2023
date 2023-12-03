@@ -32,7 +32,6 @@ def extract_digits_improved(string):
 
     first_and_last = [first, last]
 
-    print(''.join(first_and_last))
     return first_and_last
     # extract written numbers from string like one, two etc.
 
